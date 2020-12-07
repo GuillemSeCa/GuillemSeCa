@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Guillem Serra Cazorla
+<h2 align="center"> Hi there 👋, I'm Guillem Serra Cazorla</h2>
 <h3 align="center">a student of Computer engineering and Telematic Engineering.</h3>
 
 - 📫 How to reach me **gserracazorla@gmail.com**

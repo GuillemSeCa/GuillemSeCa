@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Guillem Serra Cazorla
+<h3 align="center">a student of Computer engineering and Telematic Engineering.</h3>
+
+- 📫 How to reach me **gserracazorla@gmail.com**
+
+- <a href="https://www.linkedin.com/in/guillemserracazorla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Guillem Serra Cazorla" height="20" width="30" />Guillem Serra Cazorla</a> 
 
 <!--
 **GuillemSeCa/GuillemSeCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

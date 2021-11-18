@@ -5,6 +5,11 @@
 
 - <a href="https://www.linkedin.com/in/guillemserracazorla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Guillem Serra Cazorla" height="20" width="30" />Guillem Serra Cazorla</a> 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuillemSeCa&show_icons=true&theme=github_dark" alt="rogermiranda1000's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemSeCa&layout=compact&theme=github_dark" alt="Top Langs" />
+</div>
+
 <!--
 **GuillemSeCa/GuillemSeCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
